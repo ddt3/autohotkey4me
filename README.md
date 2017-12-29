@@ -1,6 +1,6 @@
 ## autohotkey4me
 
-This is a private repository for my own autohotkeyscripts.
+This is a private repository for my own autohotkey scripts.
 
 I doubt that there is anything anyone else can use but if so: be my guest<br>
 
